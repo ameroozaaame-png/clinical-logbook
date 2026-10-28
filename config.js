@@ -1,4 +1,4 @@
-/**
+سس/**
  * إعدادات الاتصال بمشروع Supabase
  * ------------------------------------------------------------
  * 1) استبدل القيمتين أدناه بالقيم الموجودة في:
@@ -11,5 +11,5 @@
  */
 window.CLINICAL_LOGBOOK_CONFIG = {
   supabaseUrl: "https://uqxeehwijjawxnaghvxa.supabase.co",
-  supabaseAnonKey: "sb_publishable_dfDxPS0HKNvGPOacv-Mdrg__DoIycj5s",
+  supabaseAnonKey: "sb_publishable_dfDxPS0HKNvGPOacv-Mdrg__DoIycj5",
 };
