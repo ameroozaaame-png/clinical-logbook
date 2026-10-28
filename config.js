@@ -10,6 +10,6 @@
  * البيانات على سياسات Row Level Security في قاعدة البيانات.
  */
 window.CLINICAL_LOGBOOK_CONFIG = {
-    supabaseUrl: "https://uqxeehwjjawxnaghvxa.supabase.co",
-    supabaseAnonKey: "sb_publishable_dfDxP50HKNvGPOacv-Mdrg__DoIycj5s"
+  supabaseUrl: "https://uqxeehwijjawxnaghvxa.supabase.co",
+  supabaseAnonKey: "sb_publishable_dfDxPS0HKNvGPOacv-Mdrg__DoIycj5s",
 };
